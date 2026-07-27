@@ -17,3 +17,7 @@
 *.png
 *.jpeg
 *.mp4
+
+*venv
+*.egg-info
+*.toml
